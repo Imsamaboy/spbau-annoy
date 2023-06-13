@@ -1,0 +1,9 @@
+{
+  "method": {
+      "name": "two_means",
+      "iterations": 200
+  },
+  "min_vector_value": -1,
+  "max_vector_value": 6,
+  "spill_tree_window": 1
+}
